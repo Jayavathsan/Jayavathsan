@@ -20,23 +20,18 @@
 <tr><th>Large Language Model Applications</th></tr>
 <tr><td>
 
-|Title | Technologies|
-|--|--|
-| [Question-and-answering-App](https://github.com/Jayavathsan/Question-and-answering-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Conversational App](https://github.com/Jayavathsan/Conversational-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Find similar things for Kids](https://github.com/Jayavathsan/Find-similar-things-for-Kids) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Marketing campaign App](https://github.com/Jayavathsan/Marketing-campaign-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [ChatGPT clone with Summarization](https://github.com/Jayavathsan/ChatGPT-clone-with-Summarization) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [MCQ creator app](https://github.com/Jayavathsan/MCQ-creator-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [CSV data analysis App](https://github.com/Jayavathsan/CSV-data-analysis-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Youtube Script writer App](https://github.com/Jayavathsan/Youtube-script-writer-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Support Chat Bot](https://github.com/Jayavathsan/Support-Chat-Bot) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Automatic ticket classifier](https://github.com/Jayavathsan/Automatic-ticket-classifier-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Resume screening assistant](https://github.com/Jayavathsan/Resume-screening-assistor-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Email Generator](https://github.com/Jayavathsan/Email-generator-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Invoice Extractor](https://github.com/Jayavathsan/Invoice-extractor-Bot) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-
+|Title | Description| Number of Projects |
+|--|--|--|
+| [LLM apps]() | Apps developed using models trained on Large Language Models| 13 |
+| [Computer Vision]() | Models and projects working on various computer vision models| 75 |
+| [Algorithms and Rules]() | Implementations of Machine Learning rules and algorithms| 7 |
+| [Un-Supervised Learning]() | Implementations of Unsupervised Deep Learning algorithms| 4 |
+| [PyTorch]() | Projects on Regression, Classification, GANs, Transfer Learning, NLP and Time series forecasting using PyTorch| 10+ |
+| [Tensorflow]() | Projects on Regression, Classification, GANs, Transfer Learning, NLP and Time series forecasting using Tensorflow 2.x| 5+ |
+| [OpenCV]() | Vision based models using OpenCV| 8+ |
 </td><td>
+
+  
 <!--
 **Jayavathsan/Jayavathsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
