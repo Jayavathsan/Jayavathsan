@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Machine Learning using Tensorflow, PyTorch, SciKit-Learn, OpenCV, HugginFace, Onnx
 - 🌱 I’m currently learning Deep Learning
-- ![TensorFlow]([https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATensorFlow_logo.svg&psig=AOvVaw1apgE7aNggNLUZAKsGcGte&ust=1692292071232000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiP7K_V4YADFQAAAAAdAAAAABAE)) I am a google certified TensorFlow Developer
+- ![]([[https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATensorFlow_logo.svg&psig=AOvVaw1apgE7aNggNLUZAKsGcGte&ust=1692292071232000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiP7K_V4YADFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F394548%2Ftensorflow&psig=AOvVaw1apgE7aNggNLUZAKsGcGte&ust=1692292071232000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiP7K_V4YADFQAAAAAdAAAAABAJ)) I am a google certified TensorFlow Developer
 
 - From November 2022 I have been exploring and learning a lot in the field of Machine Learning.
 - I have worked on 100+ personal projects in Regression, Classification, Computer Vision, Natural Language Processing and Large Language Models
