@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Machine Learning using Tensorflow, PyTorch, SciKit-Learn, OpenCV, HugginFace, Onnx
+- 🌱 I’m currently learning Tensorflow, PyTorch, SciKit-Learn, OpenCV, HugginFace, Onnx
+
 <!--
 **Jayavathsan/Jayavathsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
