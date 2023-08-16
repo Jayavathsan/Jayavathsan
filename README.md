@@ -5,7 +5,7 @@
 - I am a google certified TensorFlow Developer
 
 - From November 2022 I have been exploring and learning a lot in the field of Machine Learning.
-- I have worked on 100+ personal projects in Regression, Classification, Computer Vision, Natural Language Processing and Large Language Models
+- I have worked on 100+ personal projects in Regression, Classification, Computer Vision, Natural Language Processing and Large Language Models as part of my learning process
 - I have learned and experimented on successful open source models using open source and custom datasets.
 - I have implemented various algorithms on Supervised and Un-supervised learning.
 - I can build, train, evaluate and deploy models with ease.
@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,py,java,git,github,mysql,html,css,js,nextjs,react,vue,angular)](https://skillicons.dev)
 
 <table>
-<tr><th>Large Language Model Applications</th></tr>
+<tr><th>My Projects and Applications</th></tr>
 <tr><td>
 
 |Title | Description| Number of Projects |
@@ -29,6 +29,8 @@
 | [PyTorch]() | Projects on Regression, Classification, GANs, Transfer Learning, NLP and Time series forecasting using PyTorch| 10+ |
 | [Tensorflow]() | Projects on Regression, Classification, GANs, Transfer Learning, NLP and Time series forecasting using Tensorflow 2.x| 5+ |
 | [OpenCV]() | Vision based models using OpenCV| 8+ |
+
+
 </td><td>
 
   
