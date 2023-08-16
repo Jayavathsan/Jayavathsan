@@ -23,7 +23,12 @@
 | [Email Generator](https://github.com/Jayavathsan/Email-generator-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 | [Invoice Extractor](https://github.com/Jayavathsan/Invoice-extractor-Bot) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 
-</td><td>
+</td>
+</table>
+
+These projects are a part of my learning journey in Machine Learning.
 
 
-The projects are a part of my learning journey in Machine Learning.
+
+
+
