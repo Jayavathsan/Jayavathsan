@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning using Tensorflow, PyTorch, SciKit-Learn, OpenCV, HugginFace, Onnx
+- 🔭 I’m currently working on Machine Learning using various ML libraries and frameworks.
 - 🌱 I’m currently learning Deep Learning
 - I am a google certified TensorFlow Developer
 
@@ -8,8 +8,13 @@
 - I have worked on 100+ personal projects in Regression, Classification, Computer Vision, Natural Language Processing and Large Language Models
 - I have learned and experimented on successful open source models using open source and custom datasets.
 - I have implemented various algorithms on Supervised and Un-supervised learning.
+- I can build, train, evaluate and deploy models with ease.
+- I have deployed Large Language Models in Hugging Face spaces.
+- I am familiar with analysis tools such as WandB, tensorboard
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,js,html,css,wasm)](https://skillicons.dev)
+- My primary Machine Learning Skills include SciKit-Learn, Pandas, NumPy, PyTorch, OpenCV, TensorFlow, HuggingFace, Onnx, Keras
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,py,java,git,github,mysql,html,css,js,nextjs,react,vue,angular)](https://skillicons.dev)
 
 <table>
 <tr><th>Large Language Model Applications</th></tr>
