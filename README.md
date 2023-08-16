@@ -22,7 +22,7 @@
 
 |Title | Description| Number of Projects |
 |--|--|--|
-| [LLM apps](https://github.com/Jayavathsan/Jayavathsan/blob/main/LLMs) | Apps developed using models trained on Large Language Models| 13 |
+| [LLM apps](https://github.com/Jayavathsan/Jayavathsan/blob/main/LLMs.md) | Apps developed using models trained on Large Language Models| 13 |
 | [Computer Vision]() | Models and projects working on various computer vision models| 75 |
 | [Algorithms and Rules]() | Implementations of Machine Learning rules and algorithms| 7 |
 | [Un-Supervised Learning]() | Implementations of Unsupervised Deep Learning algorithms| 4 |
