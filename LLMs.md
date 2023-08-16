@@ -1,5 +1,6 @@
 # This table contains links and details to various Large Language Model projects and the links to their respective repositories. 
 
+- The applications in this table are created using Langchain (a framework powered by language models)
 - Please add your Open AI key in the place provided in code within .env file (OPENAI_API_KEY="your key goes here"), for your own implementation of the projects and replace Pinecone key, Pineface Token, HuggingFace tokens with your respective tokens if and when needed.
 - The apps here are made using streamlit and few other dependencies as per app requirement which can be found in the requirements.txt file. Please install the dependencies from requirements.txt file if you are implementing the apps.
 
@@ -9,7 +10,7 @@
 
 |Title | Technologies|
 |--|--|
-| [Question-and-answering-App](https://github.com/Jayavathsan/Question-and-answering-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [Question-and-answering-App](https://github.com/Jayavathsan/Question-and-answering-App) | |
 | [Conversational App](https://github.com/Jayavathsan/Conversational-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 | [Find similar things for Kids](https://github.com/Jayavathsan/Find-similar-things-for-Kids) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 | [Marketing campaign App](https://github.com/Jayavathsan/Marketing-campaign-App) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
