@@ -1,8 +1,7 @@
 # This table contains links and details to various Large Language Model projects and the links to their respective repositories. 
 
-# Please add your Open AI key in the place provided in code within .env file (OPENAI_API_KEY="your key goes here"), for your own implementation of the projects and replace Pinecone key, Pineface Token, HuggingFace tokens with your respective tokens if and when needed.
-
-The apps here are made using streamlit and few other dependencies as per app requirement which can be found in the requirements.txt file. Please install the dependencies from requirements.txt file if you are implementing the apps.
+- Please add your Open AI key in the place provided in code within .env file (OPENAI_API_KEY="your key goes here"), for your own implementation of the projects and replace Pinecone key, Pineface Token, HuggingFace tokens with your respective tokens if and when needed.
+- The apps here are made using streamlit and few other dependencies as per app requirement which can be found in the requirements.txt file. Please install the dependencies from requirements.txt file if you are implementing the apps.
 
 <table>
 <tr><th>Large Language Model Applications</th></tr>
