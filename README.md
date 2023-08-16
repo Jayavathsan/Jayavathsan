@@ -31,7 +31,7 @@
 | [OpenCV]() | Vision based models using OpenCV| 8+ |
 
 
-</td><td>
+</td>
 
   
 <!--
