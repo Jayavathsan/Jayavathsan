@@ -22,13 +22,14 @@
 
 |Title | Description| Number of Projects |
 |--|--|--|
-| [LLM apps](https://github.com/Jayavathsan/Jayavathsan/blob/main/LLMs.md) | Apps developed using models trained on Large Language Models| 13 |
-| [Computer Vision]() | Models and projects working on various computer vision models| 75 |
-| [Algorithms and Rules]() | Implementations of Machine Learning rules and algorithms| 7 |
-| [Un-Supervised Learning]() | Implementations of Unsupervised Deep Learning algorithms| 4 |
-| [PyTorch]() | Projects on Regression, Classification, GANs, Transfer Learning, NLP and Time series forecasting using PyTorch| 10+ |
-| [Tensorflow]() | Projects on Regression, Classification, GANs, Transfer Learning, NLP and Time series forecasting using Tensorflow 2.x| 5+ |
-| [OpenCV]() | Vision based models using OpenCV| 8+ |
+| [LLM apps](https://github.com/Jayavathsan/Jayavathsan/blob/main/LLMs.md) | Apps developed using pretrained Large Language Models| 13 |
+| [Computer Vision](https://github.com/Jayavathsan/ComputerVision) | Models and projects on various computer vision models| 75 |
+| [Algorithms and Rules](https://github.com/Jayavathsan/MachineLearning-SciKitLearn) | Implementations of Machine Learning rules and algorithms| 7 |
+| [Un-Supervised Learning](https://github.com/Jayavathsan/UnsupervisedLearning) | Implementations of Unsupervised Deep Learning algorithms| 4 |
+| [PyTorch](https://github.com/Jayavathsan/PyTorch) | Regression, Classification, GANs, Transfer Learning, NLP and Time series forecasting using PyTorch| 10+ |
+| [Tensorflow](https://github.com/Jayavathsan/TensorFlow) | Regression, Classification, GANs, Transfer Learning, NLP and Time series forecasting using Tensorflow 2.x| 5+ |
+| [OpenCV](https://github.com/Jayavathsan/OpenCV) | Vision based models using OpenCV| 8+ |
+| [HuggingFace](https://github.com/Jayavathsan/HuggingFace) | Leveraging pretrained models and transormers from Hugging Face | 6+ |
 
 
 </td></tr>
