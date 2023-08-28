@@ -36,6 +36,8 @@
 
 Few projects in the above links are yet to be uploaded. Stay connected. I will try and upload them ASAP.
 
+Link to few Large Language Model appications deployed in HugginFace spaces: https://huggingface.co/Jayavathsan
+
   
 <!--
 **Jayavathsan/Jayavathsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
